@@ -26,7 +26,7 @@ router.get('/:id', async (req: Request, res: Response) => {
 
 // update a specific resource
 router.patch('/:id',
-    //requireAuth,
+    requireAuth,
     async (req: Request, res: Response) => {
         const caption = req.body.caption;
         const fileName = req.body.url;
