@@ -33,6 +33,8 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "debug": "^4.3.4",
+    "express": "^4.17.1",
+    "mkdirp": "^1.0.4"
   }
 }
