@@ -35,3 +35,7 @@ UserInterfaceState.xcuserstate
 node_modules
 venv/
 .vscode
+new_user_credentials_udagram.csv
+new_user_admin_credentials_microsvc.csv
+course-02/exercises/udacity-c2-restapi/.env
+course-04/exercises/lesson-3/serverless_accessKeys.csv
